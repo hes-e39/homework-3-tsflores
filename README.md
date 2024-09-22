@@ -29,3 +29,11 @@ If you created this repo in github classrooms, the repo name should have your us
 4. In your GH repo: Settings -> Pages -> Build and deployment -> Branch -> gh-pages
 
 You might have to hard refresh the browser page when pushing multiple updates to GH in order to reflect the most recent changes.
+
+## Make changes to App.tsx
+
+1. Open `src/App.tsx`
+2. Make changes to App.tsx so that it displays the colors in `colors.json` however you like
+3. Save the file
+4. Push to the main branch
+5. Changes should be reflected in the browser shortly after the GH action finishes
